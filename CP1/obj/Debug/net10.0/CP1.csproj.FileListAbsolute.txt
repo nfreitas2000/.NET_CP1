@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\CP1\CP1\bin\Debug\net10.0\CP1.exe
+C:\Users\USER\source\repos\CP1\CP1\bin\Debug\net10.0\CP1.deps.json
+C:\Users\USER\source\repos\CP1\CP1\bin\Debug\net10.0\CP1.runtimeconfig.json
+C:\Users\USER\source\repos\CP1\CP1\bin\Debug\net10.0\CP1.dll
+C:\Users\USER\source\repos\CP1\CP1\bin\Debug\net10.0\CP1.pdb
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.AssemblyInfo.cs
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.dll
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\refint\CP1.dll
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.pdb
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\CP1.genruntimeconfig.cache
+C:\Users\USER\source\repos\CP1\CP1\obj\Debug\net10.0\ref\CP1.dll
